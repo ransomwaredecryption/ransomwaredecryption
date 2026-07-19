@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <b>catboy icarus</b> & <b>farei</b>
+  <img src="https://herokuapp.com" alt="Typing SVG" />
 </p>
