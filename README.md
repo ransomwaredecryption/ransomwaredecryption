@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="Typing SVG" />
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
